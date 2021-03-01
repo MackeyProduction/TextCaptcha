@@ -1,0 +1,9 @@
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\bin\x86\Debug\TextCaptcha.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\bin\x86\Debug\TextCaptcha.pdb
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\bin\x86\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\bin\x86\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\obj\x86\Debug\TextCaptcha.csprojAssemblyReference.cache
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\obj\x86\Debug\TextCaptcha.csproj.CoreCompileInputs.cache
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\obj\x86\Debug\TextCaptcha.csproj.CopyComplete
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\obj\x86\Debug\TextCaptcha.dll
+C:\Users\Til-PC\Documents\Visual Studio 2019\Projects\TextCaptcha\TextCaptcha\obj\x86\Debug\TextCaptcha.pdb
